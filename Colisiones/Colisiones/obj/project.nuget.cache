@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gA+kH+3sg83MsbQsMD5/l+/btR5q8DlmS0dBBoWiGGgMvB+ILAXqPDZqvs223jA2xaVBnO7/vEjA2T6PBUUJ8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omar\\source\\repos\\Colisiones\\Colisiones\\Colisiones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

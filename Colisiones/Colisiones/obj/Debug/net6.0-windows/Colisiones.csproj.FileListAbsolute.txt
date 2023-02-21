@@ -1,0 +1,17 @@
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\bin\Debug\net6.0-windows\Colisiones.exe
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\bin\Debug\net6.0-windows\Colisiones.deps.json
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\bin\Debug\net6.0-windows\Colisiones.runtimeconfig.json
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\bin\Debug\net6.0-windows\Colisiones.dll
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\bin\Debug\net6.0-windows\Colisiones.pdb
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.csproj.AssemblyReference.cache
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.Form1.resources
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.csproj.GenerateResource.cache
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.AssemblyInfoInputs.cache
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.AssemblyInfo.cs
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.dll
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\refint\Colisiones.dll
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.pdb
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\Colisiones.genruntimeconfig.cache
+C:\Users\Omar\Source\Repos\Colisiones\Colisiones\obj\Debug\net6.0-windows\ref\Colisiones.dll
